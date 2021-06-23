@@ -1,2 +1,3 @@
 numbers
-integers allowed
+:
+numbers delete
